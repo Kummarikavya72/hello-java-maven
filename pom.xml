@@ -15,5 +15,5 @@
              </configuration>
          </plugin>
       </plugins>
-    </bulid>
+    </build>
    </project>
