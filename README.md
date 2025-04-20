@@ -6,3 +6,4 @@ success bulit image![image](https://github.com/user-attachments/assets/e03be7c0-
 this is all the commands that i used to develop the task 8
 ![image](https://github.com/user-attachments/assets/7559dd0a-0797-4a1b-95c6-b377b2e48e8c)
 ![image](https://github.com/user-attachments/assets/bade3be8-200c-45ab-9752-4aed98ec6631)
+![image](https://github.com/user-attachments/assets/7d40bd97-142f-4689-a7fe-676d52e924ea)
